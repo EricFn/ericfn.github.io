@@ -1,2 +1,1 @@
-# oicoc.com
-
+# site guide
